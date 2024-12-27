@@ -1,0 +1,8 @@
+prefix=/home/greenddb/Projects/IEEE_RAL_EXP2_SETUP/arm_ros/z1_ws/install
+
+Name: b1_description
+Description: Description of b1_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

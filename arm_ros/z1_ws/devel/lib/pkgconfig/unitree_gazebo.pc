@@ -1,0 +1,8 @@
+prefix=/home/greenddb/Projects/IEEE_RAL_EXP2_SETUP/arm_ros/z1_ws/devel
+
+Name: unitree_gazebo
+Description: Description of unitree_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: unitree_legged_msgs
